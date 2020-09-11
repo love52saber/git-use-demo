@@ -10,6 +10,7 @@ public class GitUseDemoApplication {
 
     public static void main(String[] args) {
         log.info("111");
+        log.info("bugFix1");
         SpringApplication.run(GitUseDemoApplication.class, args);
     }
 
