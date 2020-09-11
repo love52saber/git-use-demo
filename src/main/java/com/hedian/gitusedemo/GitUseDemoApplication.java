@@ -9,6 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GitUseDemoApplication {
 
     public static void main(String[] args) {
+        log.info("111");
         SpringApplication.run(GitUseDemoApplication.class, args);
     }
 
