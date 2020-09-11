@@ -10,15 +10,7 @@ public class GitUseDemoApplication {
 
     public static void main(String[] args) {
         log.info("bugFix2");
-        log.info("bugFix1");
-        log.info("feature/1 1");
-        log.info("feature/1 2");
         SpringApplication.run(GitUseDemoApplication.class, args);
-        log.info("bugFix2 1");
-        log.info("bugFix2 3");
-
-        log.info("bugFix2 4");
-        log.info("bugFix2 5");
     }
 
 }
