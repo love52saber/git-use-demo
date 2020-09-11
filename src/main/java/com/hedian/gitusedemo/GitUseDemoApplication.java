@@ -11,6 +11,7 @@ public class GitUseDemoApplication {
     public static void main(String[] args) {
         log.info("111");
         log.info("feature/1 1");
+        log.info("feature/1 2");
         SpringApplication.run(GitUseDemoApplication.class, args);
     }
 
