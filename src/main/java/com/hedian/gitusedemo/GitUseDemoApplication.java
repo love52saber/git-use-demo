@@ -13,7 +13,6 @@ public class GitUseDemoApplication {
         log.info("bugFix1");
         SpringApplication.run(GitUseDemoApplication.class, args);
         log.info("bugFix2 1");
-        log.info("bugFix2 2");
         log.info("bugFix2 3");
     }
 
