@@ -16,6 +16,7 @@ public class GitUseDemoApplication {
         log.info("bugFix2 3");
 
         log.info("bugFix2 4");
+        log.info("bugFix2 5");
     }
 
 }
